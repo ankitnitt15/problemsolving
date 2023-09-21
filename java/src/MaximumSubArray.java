@@ -39,7 +39,7 @@ public class MaximumSubArray {
     }
 
     public static void main(String[] args){
-        int arr[] = new int[]{5,-6,1,7,8};
+        int arr[] = new int[]{-5,-6,1,7,8};
         //int arr[] = new int[]{-2,1,-3,4,-1,2,1,-7,6};
         System.out.println(maxSubArray(arr));
     }
